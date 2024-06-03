@@ -1,4 +1,4 @@
-## Hi there 👋
+## Boas vindas ao meu perfil!
 Meu nome é Gabriel Schemes
 Estou estudando na Alura
 Estou me desenvolvendo na linguagem JavaScript
